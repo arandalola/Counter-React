@@ -1,2 +1,1 @@
-## Practicando con React
-Proyecto creado con propósitos educativos.
+Counter realizado con React
